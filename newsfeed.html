@@ -34,21 +34,17 @@
   <div class="row" id="content">
     <div class="medium-8 columns">
 
-      <p1>Æfingar hjá 3SH</p1>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+          console.debug("Loading js sdk");
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/is_IS/sdk.js#xfbml=1&version=v2.5&appId=380776015327054";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
       
-      <p>
-      <p>
-          Að jafnaði eru þetta tímasetningar á æfingum hjá 3SH. Tímasetningar geta hliðrast til, sem er á tilkynnt
-          þá félagasíðu félagsins á Facebook.
-         <br>
-         <br>
-      
-      <iframe src="https://calendar.google.com/calendar/embed?src=2ee9lc56i0vmmrj44gk0angv5o%40group.calendar.google.com&ctz=Atlantic/Reykjavik"
-              style="border: 0" width="700" height="550"
-              frameborder="0"
-              scrolling="no">
-      
-      </iframe>
+      <div class="fb-page"></div>
 
     </div>
 
