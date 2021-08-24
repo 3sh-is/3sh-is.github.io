@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db3f6c9b-4284-40b6-91ad-84a75d64453d" name="Default" comment="Uppfæra stjórn og styrktaraðila">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db3f6c9b-4284-40b6-91ad-84a75d64453d" name="Default" comment="Uppfæra æfingagjöld">
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +125,7 @@
       <workItem from="1558010883447" duration="2724000" />
       <workItem from="1578574622337" duration="1098000" />
       <workItem from="1594891069751" duration="2036000" />
-      <workItem from="1629824139837" duration="528000" />
+      <workItem from="1629824139837" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="Updating page, remove obsolete stuff, update index, about and triatlhlon 101.">
       <created>1518982624148</created>
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594892546295</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Uppfæra æfingagjöld">
+      <created>1629824680649</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629824680649</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +265,7 @@
     <MESSAGE value="Linkur á keppni settur inn á triathlon.is" />
     <MESSAGE value="Uppfæra heimasíðu og æfingatíma" />
     <MESSAGE value="Uppfæra stjórn og styrktaraðila" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppfæra stjórn og styrktaraðila" />
+    <MESSAGE value="Uppfæra æfingagjöld" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppfæra æfingagjöld" />
   </component>
 </project>
