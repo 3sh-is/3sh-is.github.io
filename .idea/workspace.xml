@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db3f6c9b-4284-40b6-91ad-84a75d64453d" name="Default" comment="Uppfæra heimasíðu og æfingatíma">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/aquasport-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/faetur-toga-logo-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/hjolaspretturlogo_250x.png" afterDir="false" />
+    <list default="true" id="db3f6c9b-4284-40b6-91ad-84a75d64453d" name="Default" comment="Uppfæra stjórn og styrktaraðila">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsfeed.html" beforeDir="false" afterPath="$PROJECT_DIR$/newsfeed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/training.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triathlon101.html" beforeDir="false" afterPath="$PROJECT_DIR$/triathlon101.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triday-letter.html" beforeDir="false" afterPath="$PROJECT_DIR$/triday-letter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triday.html" beforeDir="false" afterPath="$PROJECT_DIR$/triday.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +20,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1W9vS0LdubGWjuS2KMawKbu4Mac" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -53,8 +50,11 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -106,6 +106,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -124,7 +125,8 @@
       <workItem from="1541608492919" duration="2699000" />
       <workItem from="1558010883447" duration="2724000" />
       <workItem from="1578574622337" duration="1098000" />
-      <workItem from="1594891069751" duration="1441000" />
+      <workItem from="1594891069751" duration="2036000" />
+      <workItem from="1629824139837" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="Updating page, remove obsolete stuff, update index, about and triatlhlon 101.">
       <created>1518982624148</created>
@@ -203,20 +205,25 @@
       <option name="project" value="LOCAL" />
       <updated>1578575415645</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Uppfæra stjórn og styrktaraðila">
+      <created>1594892546295</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594892546295</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -235,6 +242,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -250,16 +258,7 @@
     <MESSAGE value="Setja inn link á keppni á forsíðu." />
     <MESSAGE value="Linkur á keppni settur inn á triathlon.is" />
     <MESSAGE value="Uppfæra heimasíðu og æfingatíma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppfæra heimasíðu og æfingatíma" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="3200" y="209" width="639" height="486" key="find.popup" timestamp="1594892372760">
-      <screen x="2560" y="-88" width="1920" height="1080" />
-    </state>
-    <state x="3200" y="209" width="639" height="486" key="find.popup/0.23.2560.1417/2560.-88.1920.1080@2560.-88.1920.1080" timestamp="1594892372760" />
-    <state x="3185" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1594891182373">
-      <screen x="2560" y="-88" width="1920" height="1080" />
-    </state>
-    <state x="3185" y="153" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417/2560.-88.1920.1080@2560.-88.1920.1080" timestamp="1594891182373" />
+    <MESSAGE value="Uppfæra stjórn og styrktaraðila" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppfæra stjórn og styrktaraðila" />
   </component>
 </project>
