@@ -3,21 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="db3f6c9b-4284-40b6-91ad-84a75d64453d" name="Default" comment="Uppfæra æfingagjöld, #2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_trash/dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/_trash/dev.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_trash/index-default-foundation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_trash/index-default-foundation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barna-2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/barna-2017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hol-2016.html" beforeDir="false" afterPath="$PROJECT_DIR$/hol-2016.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hol-2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/hol-2017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hol-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/hol-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hol-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/hol-2019.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/krakkathraut-2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/krakkathraut-2017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsfeed.html" beforeDir="false" afterPath="$PROJECT_DIR$/newsfeed.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/training.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triathlon101.html" beforeDir="false" afterPath="$PROJECT_DIR$/triathlon101.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triday-letter.html" beforeDir="false" afterPath="$PROJECT_DIR$/triday-letter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triday.html" beforeDir="false" afterPath="$PROJECT_DIR$/triday.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +57,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -140,7 +129,8 @@
       <workItem from="1558010883447" duration="2724000" />
       <workItem from="1578574622337" duration="1098000" />
       <workItem from="1594891069751" duration="2036000" />
-      <workItem from="1629824139837" duration="1811000" />
+      <workItem from="1629824139837" duration="3085000" />
+      <workItem from="1630867332182" duration="1023000" />
     </task>
     <task id="LOCAL-00001" summary="Updating page, remove obsolete stuff, update index, about and triatlhlon 101.">
       <created>1518982624148</created>
@@ -240,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629824792902</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Uppfæra æfingagjöld, #2">
+      <created>1629825999377</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1629825999377</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
